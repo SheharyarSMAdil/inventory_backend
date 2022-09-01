@@ -1,0 +1,23 @@
+[
+    {
+        "name": "ESP32",
+        "quantity": 19,
+        "price": 2500,
+        "manufacturer": "ESPRESSIF",
+        "uid": "6299fd82-bd04-4752-ad87-540d07e23419"
+    },
+    {
+        "name": "ESP8266",
+        "quantity": 40,
+        "price": 2000,
+        "manufacturer": "ESPRESSIF",
+        "uid": "3cbeedeb-bb10-45df-b990-b1ebeb99e720"
+    },
+    {
+        "name": "cems",
+        "quantity": 20,
+        "price": 40000,
+        "manufacturer": "ene",
+        "uid": "61cf4990-02d9-4ade-9890-ec49799b6642"
+    }
+]

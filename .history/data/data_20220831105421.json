@@ -1,0 +1,18 @@
+[
+    {
+        "name": "CEMS",
+        "quantity": "45",
+        "price": "400",
+        "manufacturer": "ENE",
+        "image": {},
+        "uid": "9245db73-7ca5-438e-b616-1cd9f098e1e5"
+    },
+    {
+        "name": "AAQMS",
+        "quantity": "450",
+        "price": "200",
+        "manufacturer": "454",
+        "image": "chris Evans.jpg",
+        "uid": "62ff8882-9457-4214-8fba-0df260ae1f6f"
+    }
+]

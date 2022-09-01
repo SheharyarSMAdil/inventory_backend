@@ -1,0 +1,16 @@
+[
+    {
+        "name": "ESP8266",
+        "quantity": 45,
+        "price": 2000,
+        "manufacturer": "ESPRESSIF",
+        "uid": "888d69d6-91a8-4897-b699-801ee0e32835"
+    },
+    {
+        "name": "ESP32",
+        "quantity": 25,
+        "price": 2500,
+        "manufacturer": "ESPRESSIF",
+        "uid": "e6a5e739-92d0-4b39-9f72-add1dbb6b0fb"
+    }
+]

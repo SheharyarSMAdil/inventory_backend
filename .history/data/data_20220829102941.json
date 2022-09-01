@@ -1,0 +1,26 @@
+[
+    {
+        "name": "ammat",
+        "quantity": "0100",
+        "price": "11",
+        "manufacturer": "11",
+        "image": "image 222.jpg",
+        "uid": "ba619478-8076-4657-a180-add9edc677cf"
+    },
+    {
+        "name": "CEMS",
+        "quantity": "100",
+        "price": "10000",
+        "manufacturer": "ene",
+        "image": "batman.jpg",
+        "uid": "2612302b-8fae-4115-a5c4-8475d73c007e"
+    },
+    {
+        "name": "sim ",
+        "quantity": "23",
+        "price": "23432",
+        "manufacturer": "ENE",
+        "image": "rock.jpg",
+        "uid": "bc17f90c-a8dd-4f32-9b60-5242ce6ecddb"
+    }
+]

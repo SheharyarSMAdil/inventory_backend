@@ -1,0 +1,14 @@
+[
+    {
+        "name": "GSM Module",
+        "quantity": 12,
+        "price": 500,
+        "manufacturer": "ATmel"
+    },
+    {
+        "name": "ESP32",
+        "quantity": 20,
+        "price": 2000,
+        "manufacturer": "ESPRESSIF"
+    }
+]

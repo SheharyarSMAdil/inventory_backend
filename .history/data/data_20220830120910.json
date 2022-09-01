@@ -1,0 +1,23 @@
+[
+    {
+        "name": "CEMS",
+        "quantity": "122",
+        "price": "100",
+        "manufacturer": "ENE",
+        "uid": "83695723-2873-4e9a-bc6d-ffdcb7e000a4"
+    },
+    {
+        "name": "ammat",
+        "quantity": "100",
+        "price": "121",
+        "manufacturer": "ENE",
+        "uid": "ff95e30a-d62f-431f-af0a-37eb54a1a164"
+    },
+    {
+        "name": "saad",
+        "quantity": "1",
+        "price": "01",
+        "manufacturer": "Aligarh",
+        "uid": "b9ab448e-9939-4d6a-8601-e5fdb6d54716"
+    }
+]

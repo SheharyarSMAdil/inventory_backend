@@ -1,0 +1,58 @@
+[
+    {
+        "name": "CEMS",
+        "quantity": "100",
+        "price": "2000",
+        "manufacturer": "ENE",
+        "uid": "98f0d0b3-02b0-47f2-89de-2c5ab8324cf1"
+    },
+    {
+        "name": "ammat",
+        "quantity": "154",
+        "price": "5454",
+        "manufacturer": "ENE",
+        "uid": "95a20f1a-e210-4f25-b17d-2826595e9e0c"
+    },
+    {
+        "name": "azakmi",
+        "quantity": "45",
+        "price": "1454",
+        "manufacturer": "ENE",
+        "uid": "b934e36e-46bc-4c3d-89c8-b9f8434b2b1c"
+    },
+    {
+        "name": "ammat",
+        "quantity": "1",
+        "price": "125",
+        "manufacturer": "455",
+        "uid": "b08300b4-165b-4844-a227-5e144a84e142"
+    },
+    {
+        "name": "ammat",
+        "quantity": "1",
+        "price": "251",
+        "manufacturer": "2542",
+        "uid": "c8ce8668-ce8c-455d-9dcf-b1c776a49b3f"
+    },
+    {
+        "name": "ammat22",
+        "quantity": "5454",
+        "price": "321321",
+        "manufacturer": "3212",
+        "uid": "86c33319-81ac-42a8-93cd-9d111da01e2b"
+    },
+    {
+        "name": "ammatww",
+        "quantity": "22",
+        "price": "22",
+        "manufacturer": "EBBB",
+        "uid": "321b878b-4ac2-4cc9-979b-134ca2208f3f"
+    },
+    {
+        "name": "ammatww",
+        "quantity": "22",
+        "price": "22",
+        "manufacturer": "EBBB",
+        "uid": "ea5d94cc-1198-4bc8-b4b7-5578e4eb4e9e"
+    }
+]

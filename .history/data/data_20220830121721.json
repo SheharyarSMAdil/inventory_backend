@@ -1,0 +1,16 @@
+[
+    {
+        "name": "CEMS",
+        "quantity": "122",
+        "price": "100",
+        "manufacturer": "ENE",
+        "uid": "83695723-2873-4e9a-bc6d-ffdcb7e000a4"
+    },
+    {
+        "name": "ammat",
+        "quantity": "122",
+        "price": "100",
+        "manufacturer": "ENE",
+        "uid": "29570a0f-da72-408b-8cfb-c490cfaea80e"
+    }
+]
